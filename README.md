@@ -4,9 +4,8 @@ Article 2015a: Survey of RR Lyrae stars around Omega Centauri
 Publications
 ----
 
-* Article 2015a: http://adsabs.harvard.edu/abs/2015A%26A...574A..15F
-* Article 2013: http://adsabs.harvard.edu/abs/2013MmSAI..84..265F
-
+* [Article 2015a](http://adsabs.harvard.edu/abs/2015A%26A...574A..15F)
+* [Article 2013](http://adsabs.harvard.edu/abs/2013MmSAI..84..265F)
 
 Abstract
 ---
